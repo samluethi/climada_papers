@@ -3,6 +3,7 @@
 This repository contains a folder for each scientific peer-reviewed article that explains software components implemented in [CLIMADA Python](https://github.com/CLIMADA-project/climada_python).
 
 ## Published papers (since 2019):
+Lüthi, S., Aznar-Siguan, G., Fairless, C., and Bresch, D. N.: Globally consistent assessment of economic impacts of wildfires in CLIMADA v2.2, Geosci. Model Dev., 14, 7175–7187, https://doi.org/10.5194/gmd-14-7175-2021, 2021.
 
 Geiger, T., Gütschow, J., Bresch, D. N., Emanuel, K., and Frieler, K., 2021: Double benefit of limiting global warming for tropical cyclone exposure. Nat. Clim. Chang., https://doi.org/10.1038/s41558-021-01157-9 
 
